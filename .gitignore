@@ -1,0 +1,5 @@
+bazel-bin
+bazel-genfiles
+bazel-out
+bazel-scilab_skylark
+bazel-testlogs
